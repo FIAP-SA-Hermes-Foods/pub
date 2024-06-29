@@ -1,0 +1,15 @@
+[submodule "pub-hf-client-p5"]
+	path = pub-hf-client-p5
+	url = https://github.com/FIAP-SA-Hermes-Foods/pub-hf-client-p5.git
+[submodule "pub-hf-orch-p5"]
+	path = pub-hf-orch-p5
+	url = https://github.com/FIAP-SA-Hermes-Foods/pub-hf-orch-p5.git
+[submodule "pub-hf-order-p5"]
+	path = pub-hf-order-p5
+	url = https://github.com/FIAP-SA-Hermes-Foods/pub-hf-order-p5.git
+[submodule "pub-hf-product-p5"]
+	path = pub-hf-product-p5
+	url = https://github.com/FIAP-SA-Hermes-Foods/pub-hf-product-p5.git
+[submodule "pub-hf-voucher-p5"]
+	path = pub-hf-voucher-p5
+	url = https://github.com/FIAP-SA-Hermes-Foods/pub-hf-voucher-p5.git
